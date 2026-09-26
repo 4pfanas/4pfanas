@@ -1,6 +1,6 @@
 # Green Chart Roadmap
 
-A 12-month plan (Sep 2026 to Sep 2027) to fill the contribution graph with real work. The target is **250+ active days**, about 5 a day-slots a week. Each phase below is a [milestone](https://github.com/4pfanas/4pfanas/milestones), and each task is an [issue](https://github.com/4pfanas/4pfanas/issues).
+A 12-month plan (Sep 2026 to Sep 2027) to fill the contribution graph with real work. The target is **250+ active days**, about 5 active days a week. Each phase below is a [milestone](https://github.com/4pfanas/4pfanas/milestones), and each task is an [issue](https://github.com/4pfanas/4pfanas/issues).
 
 | Phase | Months | Active days | Running total |
 |---|---|---|---|
